@@ -1,3 +1,3 @@
-# PHP I MYSQL (2/3)
+# XML I JSON (3/3)
 
-PROJEKTNI ZADATAK PHP i MySQL (2/3) (Izradila: Marija Barušić)
+PROJEKTNI ZADATAK XML i JSON (3/3) (Izradila: Marija Barušić)
